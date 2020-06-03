@@ -20,6 +20,10 @@ body {
   display: flex;
 }
 
+.right-side{
+  font: normal normal normal 14pt times, arial, georgia;
+}
+
 .nav-wrapper > .left-side > div {
   margin-right: 20px;
   font-size: 0.9em;
@@ -101,7 +105,7 @@ body {
 /* Needs to be more specific with selector */
 .img-text-wrapper:hover .subtitle {
   font-weight: 600;
-  color: lightseagreen;
+  color: white;
 }
 
 .img-darken {
